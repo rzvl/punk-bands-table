@@ -4,7 +4,7 @@
 The goal of this project is to teach you how to design a great-looking table 
 using CSS.
 
-> Live demo [_here_](https://www.example.com)
+> Live demo [_here_](https://rzvl.github.io/punk-bands-table/)
 
 
 ## General Information
